@@ -1,0 +1,32 @@
+li {
+    color: aqua;
+    background-color: black;
+    list-style: none;
+}
+
+.Meaw {
+    border: 5px dashed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Top_meaw {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: -50px;
+    margin-right: -8px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(https://avatars.mds.yandex.net/i?id=73e20f9beed918c845ce4946a43ce953_l-3947215-images-thumbs&n=13);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: pink;
+}
